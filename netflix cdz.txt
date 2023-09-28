@@ -1,35 +1,35 @@
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 01
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 01
 https://server18.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.1.1.v0.1676512254.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 02
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 02
 https://server19.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.2.1.v0.1677256886.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 03
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 03
 https://server20.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.3.1.v0.1677113431.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 04
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 04
 https://server21.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.4.1.v0.1677153129.360.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 05
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 05
 https://server22.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.5.1.v0.1677062626.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 06
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 1 CAPITULO 06
 https://server23.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.6.1.v0.1677356762.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 01
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 01
 https://server12.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.7.1.v0.1677160105.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 02
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 02
 https://server13.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.8.1.v0.1677262471.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 03
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 03
 https://server14.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.9.1.v0.1677238713.360.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 04
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 04
 https://server15.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.10.1.v0.1677183202.720.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 05
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 05
 https://server16.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.11.1.v0.1677511791.360.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title=""CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 06
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th?id=OIP.TvPwIJ-7LAor8IdVuPOCigHaLH&pid=Api&P=0&w=400&h=600" group-title="",CABALLEROS DEL ZODIACO TEMPORADA 2 CAPITULO 06
 https://server17.mxcdnab.online/newhls/0091e9d5cb112e6fa2a603693e9d3185/EP.12.1.v0.1677164369.360.m3u8
